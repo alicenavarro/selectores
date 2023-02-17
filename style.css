@@ -1,0 +1,74 @@
+/* html{
+    color: blue;
+} */
+
+/* P{
+    color: red;
+}
+OK */
+
+/* [class|="title-1"] {
+    color: blueviolet;
+} EL PUTO NO FUNCIONA*/ 
+
+
+/* .bg-yellow{
+    color:blueviolet
+}
+OK */
+
+/* #title-1{
+    color: blue;
+} 
+OK*/
+
+/* [id]{
+color:brown;
+}
+OK*/
+
+/* [href*="https://www.yahoo.com"]{
+    color: red;
+}
+OK */
+
+/* [class|="title"]{
+    color:red
+}
+ok */
+
+/* [href$=".com"]{
+color: blueviolet;
+} 
+OK*/
+
+/* [href*="127"]{
+    color: red;
+} */
+
+/* [href*="127"]{
+    color: red;
+}
+ok */
+/* 
+a, p, h1{
+    color:blue
+} 
+OK*/
+
+main, p{
+    color:blueviolet
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
